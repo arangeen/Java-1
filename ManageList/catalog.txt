@@ -1,0 +1,16 @@
+CIS001   43045  2  Computer Literacy 
+CIS002   47341  4  Introduction to Computing
+CIS002   48462  4  Introduction to Computing
+CIS002   47344  4  Introduction to Computing
+CIS004A  48450  4  C++ Programming
+CIS004A  48452  4  C++ Programming
+CIS004A1 48453  4  Computer Programming I ( Java )
+CIS004B  48460  4  Computer Programming II (C++)
+CIS007   45552  4  Python Programming
+CIS037A  45553  4  Introduction to C Programming
+CIS043   45557  4  Software Development With Java
+CIS044   45559  4  Introduction to Data Structure Using Java
+CIS045   45561  3  Linux Essential I
+CIS048   46555  3  Linux System Administration
+CIS060   45564  5  Mobile Apps Programming
+
